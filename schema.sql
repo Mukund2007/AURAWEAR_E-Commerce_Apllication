@@ -14,14 +14,14 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-SET @MYSQLDUMP_TEMP_LOG_BIN = @@SESSION.SQL_LOG_BIN;
-SET @@SESSION.SQL_LOG_BIN= 0;
+-- SET @MYSQLDUMP_TEMP_LOG_BIN = @@SESSION.SQL_LOG_BIN;
+-- SET @@SESSION.SQL_LOG_BIN= 0;
 
 --
 -- GTID state at the beginning of the backup 
 --
 
-SET @@GLOBAL.GTID_PURGED=/*!80000 '+'*/ '8a20390a-3c0b-11f1-9c77-b9e13b83e0d9:1-938';
+-- SET @@GLOBAL.GTID_PURGED=/*!80000 '+'*/ '8a20390a-3c0b-11f1-9c77-b9e13b83e0d9:1-938';
 
 --
 -- Table structure for table `cart`
@@ -201,7 +201,7 @@ LOCK TABLES `wishlist` WRITE;
 INSERT INTO `wishlist` VALUES (75,'govardhanreddyt78@gmail.com','Linen Overshirt',1499),(77,'govardhanreddyt78@gmail.com','Biker Short',599),(94,'mukundamadhavareddy540@gmail.com','Leather Cap',799),(95,'mukundamadhavareddy540@gmail.com','Biker Short',599),(96,'naninarne12@gmail.com','Classic Sneaker White',2999);
 /*!40000 ALTER TABLE `wishlist` ENABLE KEYS */;
 UNLOCK TABLES;
-SET @@SESSION.SQL_LOG_BIN = @MYSQLDUMP_TEMP_LOG_BIN;
+-- SET @@SESSION.SQL_LOG_BIN = @MYSQLDUMP_TEMP_LOG_BIN;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
