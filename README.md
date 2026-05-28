@@ -14,10 +14,7 @@ AuraWear is a highly polished, editorial, and design-forward e-commerce web appl
 ---
 
 ## 🎥 Live Platform Demo & User Interactions
-
-<p align="center">
-  <video src="https://github.com/Mukund2007/AURAWEAR_E-Commerce_Apllication/raw/main/src/main/webapp/assets/images/AURAWEAR.mp4" width="100%" autoplay loop muted controls></video>
-</p>
+https://github.com/Mukund2007/AURAWEAR_E-Commerce_Apllication/raw/main/src/main/webapp/assets/images/AURAWEAR.mp4
 
 > [!NOTE]
 > *This high-fidelity walkthrough demonstrates our custom physics-based cursor follower expanding on hover interactions, dynamic theme toggling persisted via `localStorage`, robust database-backed session-cart integrations, and our slide-up real-time tracking drawer dashboard.*
