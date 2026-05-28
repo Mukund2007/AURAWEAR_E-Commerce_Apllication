@@ -1,6 +1,17 @@
 # 🌌 AURAWEAR — Premium Streetwear E-Commerce Storefront
 
-AuraWear is a highly polished, editorial, and design-forward e-commerce web application inspired by high-end boutique storefront design systems. Built on a robust **Java EE Enterprise Stack** (Tomcat, Servlets, JSTL, Relational SQLite Database), it merges architectural backend logic with rich, cinematic frontend micro-interactions.
+<div align="left">
+  <a href="https://aurawear-e-commerce-apllication.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-onrender.com-ff0001?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://aurawear-e-commerce-apllication.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Database-Aiven_MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=white" alt="Database" />
+  </a>
+</div>
+
+<br>
+
+AuraWear is a highly polished, editorial, and design-forward e-commerce web application inspired by high-end boutique storefront design systems. Built on a robust **Java EE Enterprise Stack** (Tomcat, Servlets, JSTL, Relational Aiven MySQL Database), it merges architectural backend logic with rich, cinematic frontend micro-interactions.
 
 ---
 
